@@ -1,4 +1,4 @@
-# tableau_hr_dashboard_project
+# Tableau_Hr_Dashboard_Project
 
 ### Overview
 This HR Dashboard is a comprehensive human resources analytics platform designed to provide insights into workforce demographics, performance, compensation, and organizational distribution. The dashboard offers both high-level overview metrics and detailed employee-level information.
